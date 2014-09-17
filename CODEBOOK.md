@@ -51,10 +51,10 @@ tBodyGyroJerkMean
 
 The tidy dataset contains the mean values of the signal measurements for each subject and the activities they performed.
 
-Activity Codes:  
-1 - WALKING  
-2 - WALKING UPSTAIRS  
-3 - WALKING DOWNSTAIRS  
-4 - SITTING  
-5 - STANDING  
-6 - LAYING  
+## Activity Codes:  
+   1 - WALKING  
+   2 - WALKING UPSTAIRS  
+   3 - WALKING DOWNSTAIRS  
+   4 - SITTING  
+   5 - STANDING  
+   6 - LAYING  
