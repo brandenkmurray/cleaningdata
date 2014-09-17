@@ -49,7 +49,7 @@ tBodyGyroJerkMean
 
 >The complete list of variables of each feature vector is available in 'features.txt'
 
-The tidy dataset contains the mean values of the signal measurements for each subject and the activities they performed.
+The tidy dataset contains the mean values of the mean and standard deviation of signal measurements for each subject and the activities they performed.
 
 ## Activity Codes:  
    1 - WALKING  
